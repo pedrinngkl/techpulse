@@ -12,7 +12,7 @@ O site foi feito com HTML e CSS puros, com estrutura baseada em tabelas para fin
   Página principal com banner, navegação e informações de contato.
 
 - **Produtos** (`produtos.html`)  
-  Lista de produtos com imagens, nomes e preços.
+  Lista de produtos com imagens, nomes.
 
 - **Placa de Vídeo** (`placadevideo.html`)  
   Página com destaque para modelos de placas de vídeo.
@@ -26,7 +26,8 @@ O site foi feito com HTML e CSS puros, com estrutura baseada em tabelas para fin
 ---
 
 ## 📂 Estrutura de pastas
-📁 img └─ Imagens usadas no site (logos, produtos, banners)
+📁 img 
+└─ Imagens usadas no site (logos, produtos, banners)
 
 📄 index.html 📄 produtos.html 📄 placadevideo.html 📄 quemsomos.html 📄 contato.html 📄 style.css 📄 README.md
 
@@ -54,5 +55,7 @@ Você pode visualizar o site abrindo o arquivo `index.html` no seu navegador, ou
 Feito por um estudante de tecnologia de Belo Horizonte com foco em aprender e evoluir no desenvolvimento web!
 
 ---
+
+### 🧑‍💻 Projeto desenvolvido por Pedro Gonçalves.
 
 
