@@ -1,0 +1,116 @@
+table{
+    width: 100%;
+    height: 98vh;
+}
+td{
+width: 5.5%;
+height: 10%;
+}
+
+.g1 {
+    background-color: #002a94;
+    border-radius: 0%;
+}
+
+.g2 {
+    background-color: #727da7;
+    border-radius: 0%;
+}
+.g3{
+    width: 5.5%;
+    height: 0.5%;
+    background-color: white;
+    border-radius: 0%;
+    text-align: center;
+    text-decoration: none;
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     font-size: medium;
+}
+
+.g4 {
+    width: 1em;
+    height: 1em;
+    vertical-align: -0.125em;
+    text-align: left;
+
+}
+.g5{  width: 0.5%;
+    height: 0.5%;
+    background-color: white;
+    border-radius: 0%;
+    text-align: left;
+    text-decoration: none;
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     font-size: medium;
+
+
+}
+
+.g6{
+    width: 0.5%;
+    height: 0.5%;
+    background-color: white;
+    border-radius: 0%;
+    text-align: left;
+    text-decoration: none;
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     font-size: medium;
+}
+a{color: white;
+text-decoration: none;
+justify-content: space-between;
+padding: 115px;
+display: inline-block;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.text{
+    text-align: center;
+    justify-content: center;
+    padding: 100%;
+    margin-top: 10px;
+    display: inline;
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times , serif;
+}
+.produto{
+    text-align: center;
+}
+
+form {
+    margin-top: 20px;
+}
+
+form table {
+    margin: auto;
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.1);
+}
+
+form td {
+    padding: 10px;
+}
+
+form input[type="text"],
+form input[type="email"],
+form textarea {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-sizing: border-box;
+}
+
+form input[type="submit"] {
+    background-color: #1a1a1a;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+form input[type="submit"]:hover {
+    background-color: #333;
+}
