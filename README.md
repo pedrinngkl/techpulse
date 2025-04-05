@@ -51,12 +51,6 @@ Você pode visualizar o site abrindo o arquivo `index.html` no seu navegador, ou
 
 ---
 
-## 📞 Contato
-
-Feito por um estudante de tecnologia de Belo Horizonte com foco em aprender e evoluir no desenvolvimento web!
-
----
-
 ### 🧑‍💻 Projeto desenvolvido por Pedro Gonçalves.
 
 
