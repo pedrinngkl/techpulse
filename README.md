@@ -28,7 +28,7 @@ O site foi feito com HTML e CSS puros, com estrutura baseada em tabelas para fin
 ## 📂 Estrutura de pastas
 📁 img 
 
-└─ Imagens usadas no site (logos, produtos, banners)
+└─ Imagens usadas no site (logos, produtos.)
 
 📄 index.html 📄 produtos.html 📄 placadevideo.html 📄 quemsomos.html 📄 contato.html 📄 style.css 📄 README.md
 
