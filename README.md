@@ -45,7 +45,7 @@ O site foi feito com HTML e CSS puros, com estrutura baseada em tabelas para fin
 
 ## 🚀 Como visualizar
 
-Você pode visualizar o site abrindo o arquivo `index.html` no seu navegador, ou publicando o projeto via GitHub Pages:
+Você pode visualizar o site abrindo o arquivo `index.html` no seu navegador, ou via GitHub Pages:
 
 > Vá em **Configurações > Pages > Source** e selecione a branch `main` com a pasta `/root`.
 
