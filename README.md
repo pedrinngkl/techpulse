@@ -9,7 +9,7 @@ O site foi feito com HTML e CSS puros, com estrutura baseada em tabelas para fin
 ## 🌐 Páginas incluídas
 
 - **Início** (`index.html`)  
-  Página principal com banner, navegação e informações de contato.
+  Página principal com banner, navegação e informações de contato e preço.
 
 - **Produtos** (`produtos.html`)  
   Lista de produtos com imagens, nomes.
